@@ -1,7 +1,7 @@
 # GapDPO: Setwise Direct Preference Optimization for LLM Safety Alignment
 
 Code and data for the experiments of the paper. GapDPO is implemented inside the short-length
-adversarial training framework of Adv-ICL [27] (https://github.com/fshp971/adv-icl): the framework
+adversarial training framework of Adv-ICL (https://github.com/fshp971/adv-icl): the framework
 (GCG adversary in the training loop, Alpaca utility term, LoRA) is unchanged and only the alignment
 loss L_align is replaced.
 
