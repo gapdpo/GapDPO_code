@@ -1,0 +1,3 @@
+name: pair
+steps: 20
+kv_cache: False
